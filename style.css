@@ -1,0 +1,68 @@
+ * {
+    margin: 0;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal
+ }
+
+ .LoginSite {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    height: 400px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    padding-top: 100px;
+    background-color: rgb(139, 137, 137);
+    box-shadow: 10px 5px 15px black;
+ }
+
+ input {
+    width: 300px;
+    text-align: center;
+
+ }
+
+ button{
+    width: 100px;
+    cursor: pointer;
+ 
+ }
+ button:hover{
+    background-color: rgb(199, 179, 179);
+    border: none;
+    color: white;
+ }
+
+ .CadastroSite {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    height: 1000px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    background-color: rgb(139, 137, 137);
+ }
+ 
+
+ button {
+    width: 100px;
+    cursor: pointer;
+ }
+ 
+ body {
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+ }
